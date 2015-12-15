@@ -8,3 +8,7 @@ What should be in:
 * Run a simple webserver to make interaction simple
 * Configure the ESP with your WLAN settings (and store them in EEPROM) by creating an AP
 * Connect to WLAN
+* 
+
+## API Docs
+http://docs.eshesp8266.apiary.io/
